@@ -1,3 +1,7 @@
+<div align="center">
+<img src="Imagens/_24ecf22f-1813-4b3c-8529-58d8a3ed5e55.jpeg" width="300" height="300"/>
+</div>
+
 ## Olá, comunidade!
 
 Que experiência maravilhosa!🎉
@@ -123,4 +127,7 @@ O podcast está na pasta `Audio`.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErikaVazCravo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ErikaVazCravo&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![evc](https://github.com/ErikaVazCravo/ebook-usando-ia/blob/main/Imagens%20usadas/octocat-1714513122400.png?raw=true)
+
+<div align="center">
+<img src="Imagens/octocat-micro.png"/>
+</div>
