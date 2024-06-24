@@ -1,54 +1,104 @@
 ## Olá, comunidade!
 
 Que experiência maravilhosa!🎉
+
 Acabei de criar um episódio de podcast usando IA´s Generativas.
-
- ## 💻 Tecnologias utilizadas no projeto
-
-- [ChatGPT](https://chat.openai.com/) 
-- [Bing - Copilot](https://www.bing.com/images/create?cc=br)
-- []_
-- [LibreOffice - Impress](https://pt-br.libreoffice.org/descubra/impress/)
-
-### 📘 Título do Artigo: "Feitiçaria com Códigos: Como Numpy, Pandas, Scikit-learn e Matplotlib Transmitem Poderes aos Cientistas de Dados"
 
 Este projeto foi desenvolvido para o Bootcamp Santander 2024 - Fundamentos de IA para Devs, com as aulas de [Felipe Silva Aguiar](https://www.linkedin.com/in/ACoAABLpUBgBQzTIZyVSL0M4NMZu0mXvv5wCRQ8).
 
-Adorei o resultado final 😍 
+&nbsp;
 
-### [Clique aqui](https://web.dio.me/articles/feiticaria-com-codigos-como-numpy-pandas-scikit-learn-e-matplotlib-transmitem-poderes-aos-cientistas-de-dados?back=%2Farticles&open-modal=true&page=1&order=oldest) e acesse o artigo na íntegra.
+### 🎵 Nome do Podcast: "A Sociedade do Código - Aventuras e Dicas no Mundo Python"
 
+&nbsp;
 
+## 💻 Tecnologias utilizadas no projeto
 
+- [ChatGPT](https://chat.openai.com/) 👉 elaboração de roteiro
+- [Bing - Copilot](https://www.bing.com/images/create?cc=br) 👉 elaboração de imagens de capa
+- [ElevenLabs](https://elevenlabs.io/) 👉 elaboração do audio
+- [Capcut](www.capcut.com) 👉 tratamento do audio
 
+&nbsp;
 
+### 🧠 Prompts
 
+#### ✨ ChatGPT:
 
-## 🧠 Prompts
+▶️ Título:
 
-ChatGPT：
+    Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em Python e eu gostaria
+    de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de Python feito por nerds, e 
+    que tenha algum trocadilho nerd no nome.
+    
+    O podcast vai falar sobre dicas e novidades sobre o mundo do Python e o que está acontecendo no mercado
+    
+    {REGRAS}
+    > O nome deve ser enxuto, um nome e um subtítulo
+    > O nome tenha algum trocadilho nerd com nomes de franquias conhecidas como harry potter, star wars ou senhor dos anéis
+    > O nome deve conter alguma palavra forte que remeta a Python
+    
+    {REGRAS NEGATIVAS}
+    > Não quero que o título contenha palavras em inglês
+    > Não quero que utilize nenhuma das palavras nessa lista: programador
+    > Não utilize a palavra Python no nome nem qualquer variação dela
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  Título  | Quero fazer um artigo científico falando sobre as bibliotecas Python: Numpy, Scikit-learn, matplotlib, pandas. Me dê 5 idéias de títulos criativos e chamativos, envolvendo a ideia de magia              |
-| Descrição de imagem |A partir do título: Feitiçaria com códigos: Como Numpy, Pandas, Scikit-learn e Matplotlib Transmitem Poderes aos Cientistas de Dados. Me dê 5 ideias de capas criativas e chamativas usando o mascote do Python |
-| Conteúdo |  Comporte-se como um escritor de artigos tech cientista de dados e escreva um artigo com o título: Feitiçaria com Códigos: Como Numpy, Pandas, Scikit-learn e Matplotlib Transmitem Poderes aos Cientistas de Dados, atendendo as regras abaixo. {REGRAS} No máximo 5 linhas por blocos de explicação; Explique de maneira informal, como se eu fosse uma criança de 10 anos; Os blocos que serão criados estão abaixo: - Os Quatro Artefatos Mágicos: A Essência de Numpy, Pandas, Scikit-learn e Matplotlib na Ciência de Dados: Fale sobre a importância dessas bibliotecas para o cientista de dados, - O Grimório dos Números: Desvendando os Feitiços de Numpy - principais funcionalidades, casos de uso, vantagens, limitações da biblioteca e exemplo prático, - O Tomo dos Dados: Exploração das Magias de Pandas - principais funcionalidades, casos de uso, vantagens, limitações da biblioteca e exemplo prático, - O Manual do Alquimista: Alquimia dos Dados com Scikit-learn - principais funcionalidades, casos de uso, vantagens, limitações da biblioteca e exemplo prático, - O Orbe das Visões: Revelações Gráficas com Matplotlib - principais funcionalidades, casos de uso, vantagens, limitações da biblioteca e exemplo prático; Coloque 3 hashtags que façam sentido; Ao final, faça um call to action para as minhas redes sociais |
+▶️ Idéias para imagem da capa:
 
-Copilot:
+    Escolho: A Sociedade do Código - Aventuras e dicas no mundo Python
+    Me dê 5 sugestões de imagens para uma capa do meu podcast
 
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | Crie um logotipo para um artigo, para ser colocado no canto esquerdo de um banner: uma cobra píton amarela, vestida como um mago usando um chapéu pontudo, enrolada ao redor de uma grande bola de cristal, olhando para dentro dela. Na bola de cristal, visualizações de dados, gráficos e algoritmos podem ser vistos, representando as bibliotecas Numpy, Pandas, Scikit-learn e Matplotlib. Cores: Tons místicos como roxo e azul escuro, com brilhos dourados para um toque mágico. |
+▶️ Idéias para curiosidades:
 
-## ✨ Features
+    Quais assuntos poderiam ser abordados como curiosidades em Python?
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via Bing - Copilot e Lexica
+▶️ Roteiro:
+
+    Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em Python
+    cujo o nome é "A Sociedade do Código - Aventuras e dicas no mundo Python" e tem foco em linguagem de 
+    programação Python,  com o público alvo de iniciantes nessa linguagem
+    
+    o formato do roteiro deve ser
+    [INTRODUÇÃO]
+    [CURIOSIDADE 1]
+    [CURIOSIDADE 2]
+    [FINALIZAÇÃO]
+    
+    {REGRAS}
+    > no bloco [INTRODUÇÃO] substitua por uma introdução igual às introduções dos vídeos do canal 'ei nerd', como se fossem escritos pelo Peter Jordan
+    > no bloco [CURIOSIDADE 1] substitua por uma curiosidade de automação
+    > no bloco [CURIOSIDADE 2] sobre uma biblioteca inusitada
+    > no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Erika e essa foram as aventuras da Sociedade do Código dessa semana'
+    > use termos de fácil explicação
+    > O podcast vai ser apresentado somente por uma pessoa, chamada Erika
+    > O podcast deve ser curto
+    
+    {REGRAS NEGATIVAS}
+    > Não use muitos termos técnicos
+    > Não ultrapasse 5 minutos de duração
+
+#### ✨ Copilot:
+
+▶️ Imagem de Capa:
+
+    Ilustração ou desenho digital com um estilo moderno e vibrante de uma jovem podcaster com cabelo curto 
+    e roxo com um visual estiloso e contemporâneo, vestindo uma camiseta com o símbolo da linguagem de 
+    Programação Python estilizado e usando um headset com design futurista. Ela está sorrindo de maneira 
+    amigável e entusiasmada, transmitindo paixão e acessibilidade. Ao fundo está o espaço estelar com estrelas 
+    brilhantes, nebulosas coloridas e planetas ao longe, criando uma sensação de aventura e vastidão. Utilize 
+    uma paleta de cores vibrantes e contrastantes, como roxo, azul e dourado, para criar uma capa visualmente 
+    impactante e coerente com o cabelo da podcaster.
+
+&nbsp;
 
 ## 📚 Materiais
 
-As imagens utilizadas estão na pasta `Imagens`.
+Confiras as imagens deste projeto na pasta `Imagens`.
 
+O podcast está na pasta `Audio`.
+
+
+&nbsp;
 
 ### Conecte-se comigo 💻
 
